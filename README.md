@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/debjotyms/debjotyms/blob/main/dancing-om-nom.gif" height="55px" width="55px">, I'm Debjoty Mitra</h1>
+<h1 align="center">Hi<img src="https://github.com/debjotyms/debjotyms/blob/main/hio.gif" height="55px" width="55px">, I'm Debjoty Mitra</h1>
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=debjotyms&label=Profile%20views&color=0eb466&style=flat" alt="debjotyms" /> </p>

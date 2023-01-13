@@ -4,16 +4,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=debjotyms&label=Profile%20views&color=0eb466&style=flat" alt="debjotyms" /> </p>
 
 <h3 align="left">Education:</h3>
-1st Year, Computer Science
+2nd Year, Computer Science
 
 BRAC University, Dhaka, Bangladesh
 
 <h3 align="left">Skills:</h3>
 <ul>
 <li> Data Structures and Algorithms </li>
-<li> Web Development </li>
-<li> Programming Languages: C, C++, Python, Java, JavaScript</li>
+<li> Programming Languages: C, C++, Python, Java</li>
 <li> Version Control System: Git & GitHub </li>
+<li> Machine Learning </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,5 +36,6 @@ BRAC University, Dhaka, Bangladesh
 
 <p align="center"> <a href="https://twitter.com/debjotyms" target="blank"><img src="https://img.shields.io/twitter/follow/debjotyms?logo=twitter&style=for-the-badge" alt="debjotyms" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjotyms&show_icons=true&theme=dark&locale=en" alt="debjotyms" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjotyms&theme=dark" alt="debjotyms" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjotyms&theme=dark" alt="debjotyms" /></p>
 

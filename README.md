@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=debjotyms&label=Profile%20views&color=0eb466&style=flat" alt="debjotyms" /> </p>
 
 <h3 align="left">Education:</h3>
-2nd Year, Computer Science
+3rd Year, Computer Science
 
 BRAC University, Dhaka, Bangladesh
 

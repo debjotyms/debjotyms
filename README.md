@@ -11,7 +11,7 @@ BRAC University, Dhaka, Bangladesh
 <h3 align="left">Skills:</h3>
 <ul>
 <li> Data Structures and Algorithms </li>
-<li> Programming Languages: C, C++, Python, Java</li>
+<li> Programming Languages: C, C++, Python, JavaScript</li>
 <li> Version Control System: Git & GitHub </li>
 <li> Machine Learning </li>
 </ul>

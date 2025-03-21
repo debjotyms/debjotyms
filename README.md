@@ -13,7 +13,7 @@ BRAC University, Dhaka, Bangladesh
   <li> Data Structures and Algorithms </li>
   <li> Programming Languages: C, C++, Python, JavaScript </li>
   <li> Web Development: HTML, CSS, Tailwind CSS, React, Next.js, Node.js, Express.js, PostgreSQL </li>
-  <li> Machine Learning: ML, DL, NLP, CV, TensorFlow, PyTorch, LLMs, LangChain </li>
+  <li> AI & Machine Learning: ML, DL, NLP, CV, TensorFlow, PyTorch, LLMs, LangChain </li>
   <li> Cloud & DevOps: AWS, Azure, MLOps </li>
   <li> Version Control: Git & GitHub </li>
   <li> Tools: Obsidian, Arc Browser </li>

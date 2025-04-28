@@ -16,7 +16,7 @@ BRAC University, Dhaka, Bangladesh
   <li> AI & Machine Learning: ML, DL, NLP, CV, TensorFlow, PyTorch, LLMs, LangChain </li>
   <li> Cloud & DevOps: AWS, Azure, MLOps </li>
   <li> Version Control: Git & GitHub </li>
-  <li> Tools: Obsidian, Arc Browser </li>
+  <li> Tools: Obsidian</li>
   <li> Video Editing: DaVinci Resolve </li>
 </ul>
 

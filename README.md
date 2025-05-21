@@ -8,7 +8,7 @@ I’m a passionate developer focused on building real world <strong>AI powered a
 </p>
 
 <p align="justify">
-I'm also the founder of <a href="https://xopslab.org"><strong>XOps Lab</strong></a>, an open source learning platform focused on <strong>AI/ML</strong> and <strong>Cloud Native</strong> technologies. I hold <strong>multiple Microsoft Azure certifications</strong> and love sharing knowledge through my <a href="https://www.youtube.com/@debjotyms">YouTube channel</a> and <a href="https://blog.debjotyms.com">personal blog</a>. I’m also an active <strong>open source contributor</strong>, currently localizing <em>OpenTelemetry</em> into Bengali.
+I'm also the founder of <a href="https://xopslab.org"><strong>XOps Lab</strong></a>, an open source learning platform focused on <strong>AI/ML</strong> and <strong>Cloud Native</strong> technologies. I hold <strong>multiple Microsoft Azure certifications</strong> and love sharing knowledge through my <a href="https://www.youtube.com/@debjotyms">YouTube channel</a> and <a href="https://blog.debjotyms.com">personal blog</a>. I’m also an active <strong>open source contributor</strong>, currently localizing <a href="https://github.com/open-telemetry/opentelemetry.io/issues/6934">OpenTelemetry</a> into Bengali.
 </p>
 
 

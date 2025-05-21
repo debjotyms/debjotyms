@@ -3,6 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=debjotyms&label=Profile%20views&color=0eb466&style=flat" alt="debjotyms" /> </p>
 
+<p align="justify">
+I’m a passionate developer focused on building real world <strong>AI powered applications</strong> and on the path to becoming a skilled <strong>MLOps Engineer</strong>. I enjoy working with tools like <strong>FastAPI</strong>, <strong>LangChain</strong>, and <strong>Vector Databases</strong> to develop intelligent systems such as <em>RAG pipelines</em> and <em>fine tuned local LLMs</em>. I'm currently exploring how to scale and deploy these models effectively using <strong>AWS</strong>, <strong>Docker</strong>, and soon <strong>Kubernetes</strong>. On the web development side, I’m confident with the full stack using <strong>React, Next.js, TailwindCSS, TypeScript, Express.js,</strong> and <strong>PostgreSQL</strong>.
+</p>
+
+<p align="justify">
+I'm also the founder of <a href="https://xopslab.org"><strong>XOps Lab</strong></a>, an open source learning platform focused on <strong>AI/ML</strong> and <strong>Cloud Native</strong> technologies. I hold <strong>multiple Microsoft Azure certifications</strong> and love sharing knowledge through my <a href="https://www.youtube.com/@debjotyms">YouTube channel</a> and <a href="https://blog.debjotyms.com">personal blog</a>. I’m also an active <strong>open source contributor</strong>, currently localizing <em>OpenTelemetry</em> into Bengali.
+</p>
+
+
 <h3 align="left">Education:</h3>
 4th Year, Computer Science
 

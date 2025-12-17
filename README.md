@@ -13,8 +13,7 @@ I'm also the founder of <a href="https://xopslab.org"><strong>XOps Lab</strong><
 
 
 <h3 align="left">Education:</h3>
-4th Year, Computer Science
-
+B.Sc. in Computer Science
 BRAC University, Dhaka, Bangladesh
 
 <h3 align="left">Skills:</h3>
